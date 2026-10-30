@@ -1,0 +1,8 @@
+// Set functionTimeout to 10 minutes
+{
+  "functionTimeout": "00:10:00",
+  "aggregator": {
+    "batchSize": 10,
+    "flushTimeout": "00:00:30"
+  }
+}

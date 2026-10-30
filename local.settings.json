@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "AzureWebJobsDashboard": "",
+    "AzureStorageQueue": "",
+    "D365_USER": "",
+    "D365_SERVICE_URL": "",
+    "D365_PASSWORD": "",
+    "D365_APPURL": "",
+    "D365_APPID": "",
+    "D365_CLIENT_SECRET": "",
+    "D365_LOG_SNAPSHOT": "YES",
+    "TestRun": "NO"
+  }
+}
