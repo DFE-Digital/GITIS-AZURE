@@ -10,7 +10,7 @@
     <PackageReference Include="Microsoft.CrmSdk.XrmTooling.CoreAssembly" Version="9.1.1.1" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.25" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-    <PackageReference Include="System.Text.Json" Version="6.0.5" />
+    <PackageReference Include="System.Text.Json" Version="6.0.10" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
